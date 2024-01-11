@@ -41,9 +41,13 @@ O desenvolvimento do **MessageFlow Pro** envolveu o uso de:
 
 O uso do **MessageFlow Pro** é intuitivo, envolvendo o carregamento de listas de contatos, envio de mensagens e monitoramento de status.
 
+![WhatsApp Image 2024-01-10 at 18 40 28 (1)](https://github.com/matfurrier/MessageFlowPro/assets/30526394/ee2b4f90-060c-4e9c-9244-fdc82aabafd8)
+
 ## 📊 Painel de Administração de Conversas
 
 Integrado com um avançado painel de administração de conversas, o **MessageFlow Pro** permite o gerenciamento detalhado das interações, oferecendo uma visão completa das comunicações e facilitando respostas rápidas e eficientes.
+
+![WhatsApp Image 2024-01-10 at 18 40 10 (2) (1)](https://github.com/matfurrier/MessageFlowPro/assets/30526394/e9341fc8-787d-497f-b8ce-90d44f487142)
 
 ## 🤝 Contribuições
 
