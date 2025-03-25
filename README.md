@@ -1,10 +1,94 @@
-# MessageFlow Pro 🌐
+<p align="right">
+  <b>[EN]</b> | <a href="#pt-versão-em-português">[PT]</a>
+</p>
+
+# 🌐 MessageFlow Pro
+
+**MessageFlow Pro** is an advanced platform for automating and managing business communications.
+
+## 📚 Summary
+
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Conversation Management Panel](#conversation-management-panel)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## 🌟 Description
+
+**MessageFlow Pro** is a modern web application designed to enhance corporate communication. It automates message and media delivery, streamlines marketing campaigns, and manages customer communication efficiently through a smart and intuitive interface.
+
+## 💡 Features
+
+- **Automated Messaging**: Send personalized messages and media at scale.
+- **Advanced Contact Filtering**: Segment contacts with precision for targeted campaigns.
+- **Delivery Status Updates**: Track each message's delivery status in real-time.
+- **Opt-Out Respect**: Ensures messages are sent only to contacts who opted in.
+- **Paginated Contact Management**: Handle large lists of contacts efficiently.
+- **Intuitive Interface**: Clean design that enhances usability for any user.
+
+## 🚀 Technologies Used
+
+- React  
+- Material-UI  
+- Node.js  
+- Express.js  
+- NocoBase API  
+
+## 🖥 Usage
+
+1. Upload contact lists.
+2. Write or select predefined message templates.
+3. Monitor delivery performance and campaign metrics.
+
+![MessageFlow Usage](https://github.com/matfurrier/MessageFlowPro/assets/30526394/ee2b4f90-060c-4e9c-9244-fdc82aabafd8)
+
+## 🌐 Conversation Management Panel
+
+MessageFlow Pro features a complete conversation panel with:
+
+- **Team Management**: Assign conversations to specific team members.
+- **Conversation History**: Review past interactions for context and personalization.
+- **Tags and Categories**: Organize queries by type or status.
+- **Canned Responses**: Use quick replies for frequent questions.
+- **Performance Analytics**: Get insights into team efficiency and customer satisfaction.
+- **Multi-Channel Integration**: Centralize messages from various platforms.
+
+![Admin Panel](https://github.com/matfurrier/MessageFlowPro/assets/30526394/e9341fc8-787d-497f-b8ce-90d44f487142)
+
+## 🤝 Contributing
+
+Pull requests are welcome! Feel free to open issues or suggest features.
+
+## 📄 License
+
+This project is under the MIT License. See [LICENSE](LICENSE.md) for details.
+
+## 📬 Contact
+
+Email: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
+Project Link: [https://github.com/matfurrier/MessageFlowPro](https://github.com/matfurrier/MessageFlowPro)
+
+---
+
+⚡ Built with a passion for smart, efficient business communication!
+
+---
+
+<a id="pt-versão-em-português"></a>
+<p align="right">
+  <a href="#">[EN]</a> | <b>[PT]</b>
+</p>
+
+# 🌐 MessageFlow Pro
 
 Apresentamos o **MessageFlow Pro**, a sua solução integrada para automação e gerenciamento de mensagens empresariais.
 
 ## 📚 Sumário
 
-- [MessageFlow Pro](#messageflow-pro)
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -16,60 +100,55 @@ Apresentamos o **MessageFlow Pro**, a sua solução integrada para automação e
 
 ## 🌟 Descrição
 
-**MessageFlow Pro** é um aplicativo web inovador, projetado para aprimorar a comunicação empresarial. Oferecendo uma solução robusta para o envio automatizado de mensagens e mídias, este aplicativo se destaca na gestão eficiente da comunicação com clientes e na otimização de campanhas de marketing.
+**MessageFlow Pro** é um aplicativo web inovador, projetado para aprimorar a comunicação empresarial. Oferece uma solução robusta para o envio automatizado de mensagens e mídias, com uma interface intuitiva e eficiente para campanhas de marketing e comunicação com clientes.
 
 ## 💡 Funcionalidades
 
-- **Envio Automatizado de Mensagens**: Permite o envio de mensagens e mídias de forma personalizada e eficiente.
-- **Filtragem Avançada de Contatos**: Filtra e organiza contatos com base em diversos critérios, simplificando o direcionamento das campanhas.
-- **Atualização de Status**: Atualiza automaticamente o status de envio, assegurando a rastreabilidade das comunicações.
-- **Respeito às Preferências dos Destinatários**: Respeita as solicitações de não contato, enviando mensagens apenas para aqueles que optaram por recebê-las.
-- **Paginação e Gestão de Contatos**: Gerencia eficientemente grandes listas de contatos com um sistema de paginação integrado.
-- **Interface Intuitiva**: Facilita a operação e a gestão das comunicações com uma interface amigável.
+- **Envio Automatizado de Mensagens**
+- **Filtragem Avançada de Contatos**
+- **Atualização de Status de Envio**
+- **Respeito a Contatos Opt-Out**
+- **Gestão com Paginação de Contatos**
+- **Interface Intuitiva e Responsiva**
 
 ## 🚀 Tecnologias Utilizadas
 
-O desenvolvimento do **MessageFlow Pro** envolveu o uso de:
-
-- React
-- Material-UI
-- Node.js
-- Express.js
-- NocoBase API
+- React  
+- Material-UI  
+- Node.js  
+- Express.js  
+- NocoBase API  
 
 ## 🖥 Uso
 
-O uso do **MessageFlow Pro** é intuitivo, envolvendo o carregamento de listas de contatos, envio de mensagens e monitoramento de status.
+1. Carregue listas de contatos.  
+2. Selecione ou escreva mensagens.  
+3. Acompanhe a performance das campanhas.
 
-![WhatsApp Image 2024-01-10 at 18 40 28 (1)](https://github.com/matfurrier/MessageFlowPro/assets/30526394/ee2b4f90-060c-4e9c-9244-fdc82aabafd8)
+![Uso](https://github.com/matfurrier/MessageFlowPro/assets/30526394/ee2b4f90-060c-4e9c-9244-fdc82aabafd8)
 
-## 🌐 Painel de Administração de Conversas Avançado
+## 🌐 Painel de Administração de Conversas
 
-O **MessageFlow Pro** inclui um painel de administração de conversas avançado que oferece uma série de recursos úteis para melhorar a comunicação com o cliente e a eficiência da equipe:
+- **Gestão de Equipes**
+- **Histórico de Conversas**
+- **Etiquetas e Categorias**
+- **Respostas Prontas**
+- **Análises de Desempenho**
+- **Integração com Múltiplos Canais**
 
-- **Gestão de Equipes**: Permite que várias equipes trabalhem simultaneamente, atribuindo conversas e tarefas a membros específicos da equipe para uma resposta rápida e eficaz.
-- **Histórico de Conversas**: Mantém um registro detalhado das interações com os clientes, permitindo que a equipe acompanhe as conversas anteriores e ofereça um atendimento personalizado.
-- **Etiquetas e Categorias**: Organiza as conversas utilizando etiquetas e categorias, facilitando a segmentação e o acompanhamento de consultas específicas.
-- **Respostas Prontas**: Oferece a possibilidade de criar e usar respostas prontas para perguntas frequentes, aumentando a eficiência e a velocidade de resposta.
-- **Análise de Desempenho**: Fornece insights sobre o desempenho da equipe e as métricas de satisfação do cliente, permitindo aprimorar continuamente as estratégias de comunicação.
-- **Integração com Múltiplos Canais**: Agrega conversas de diversos canais de comunicação em um único painel, tornando a gestão de mensagens mais centralizada e eficiente.
-
-Estas funcionalidades permitem que o **MessageFlow Pro** se destaque como uma ferramenta robusta não apenas para o envio de mensagens automatizadas, mas também como uma solução completa para gerenciar a comunicação e melhorar o relacionamento com o cliente.
-
-![WhatsApp Image 2024-01-10 at 18 40 10 (2) (1)](https://github.com/matfurrier/MessageFlowPro/assets/30526394/e9341fc8-787d-497f-b8ce-90d44f487142)
+![Painel de Conversas](https://github.com/matfurrier/MessageFlowPro/assets/30526394/e9341fc8-787d-497f-b8ce-90d44f487142)
 
 ## 🤝 Contribuições
 
-Contribuições para o desenvolvimento e melhoria do **MessageFlow Pro** são bem-vindas.
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo [LICENSE](LICENSE.md).
+Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE.md) para mais detalhes.
 
 ## 📬 Contato
 
-MessageFlow Pro - [matfurrier@gmail.com](mailto:matfurrier@gmail.com)
-
+Email: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
 Link do Projeto: [https://github.com/matfurrier/MessageFlowPro](https://github.com/matfurrier/MessageFlowPro)
 
 ---
